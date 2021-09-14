@@ -16,9 +16,9 @@ As you listen to videos and do the lab assignments, you can follow along in thes
 
 [comment]: <> (Use a link below to open the starting-point code for the CPU labs. Choose a link based on the month of your birth to help us distribute the load, and use "Open link in new tab" from the right-click pull-down menu.)
 
-To begin the labs, right-click this [starting-point code](https://makerchip.com/sandbox?code_url=https:%2F%2Fraw.githubusercontent.com%2Fstevehoover%2FVSDOpen2020_TLV_RISC-V_Tutorial%2Fmaster%2Fstarting_point.tlv) and "open link in new tab".
+To begin the labs, right-click this [starting-point code](https://makerchip.com/sandbox?code_url=https:%2F%2Fraw.githubusercontent.com%2Fstevehoover%2FChipEXPO-2021%2Fmaster%2Fstarting_point.tlv) and "open link in new tab".
 
-If you are able to reach the end of the workshop you'll be instructed to, right-click this [part 2 starting-point code](xxx) and "open link in new tab".
+If you are able to reach the end of the workshop you'll be instructed to, right-click this [part 2 starting-point code](https://makerchip.com/sandbox?code_url=https:%2F%2Fraw.githubusercontent.com%2Fstevehoover%2FChipEXPO-2021%2Fmaster%2Fstarting_point_part2.tlv) and "open link in new tab".
 
 ## Help
 
