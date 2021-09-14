@@ -8,6 +8,8 @@ Videos are available in YouTube. Right-click [this playlist](https://www.youtube
 
 These videos begin with content originally from VSDOpen 2020, then continue with additional content. They should appear in the proper order by default.
 
+To enable (auto-generated) Russian subtitles, hover your mouse cursor over the video and select Settings (gear), then "Subtitles", "English (auto-generated)". Select "Subtitles", "English (auto-generated)" again and you'll be able to choose "Auto-translate" to "Russian".
+
 ## Slides
 
 As you listen to videos and do the lab assignments, you can follow along in these slides. Right-click [these slides](https://drive.google.com/file/d/1kn-ZAWbXrdvnhw5QvwXI51JaaJyQjb43/view?usp=sharing) and "open in new tab". Comments may have been added in real time to address points of confusion.
@@ -18,13 +20,13 @@ As you listen to videos and do the lab assignments, you can follow along in thes
 
 To begin the labs, right-click this [starting-point code](https://makerchip.com/sandbox?code_url=https:%2F%2Fraw.githubusercontent.com%2Fstevehoover%2FChipEXPO-2021%2Fmaster%2Fstarting_point.tlv) and "open link in new tab".
 
-If you are able to reach the end of the workshop you'll be instructed to, right-click this [part 2 starting-point code](https://makerchip.com/sandbox?code_url=https:%2F%2Fraw.githubusercontent.com%2Fstevehoover%2FChipEXPO-2021%2Fmaster%2Fstarting_point_part2.tlv) and "open link in new tab".
+If you are able to reach the end of the workshop (and its fine if you are not) you'll be instructed to right-click this [part 2 starting-point code](https://makerchip.com/sandbox?code_url=https:%2F%2Fraw.githubusercontent.com%2Fstevehoover%2FChipEXPO-2021%2Fmaster%2Fstarting_point_part2.tlv) and "open link in new tab".
 
 ## Help
 
-For help, ask questions in English in the Zoom chat. Steve Hoover may be sleeping, but others will be available to help :).
+For help, ask questions in English in the Zoom chat if Zoom is active. Steve Hoover may be sleeping :), but someone will be available to help.
 
-Alternately:
+Alternatively:
 
   - [Join the TL-Verilog Users' Slack Workspace](https://join.slack.com/t/tl-verilog-users/shared_invite/zt-4fatipnr-dmDgkbzrCe0ZRLOOVm89gA)
   - Within the Workspace, add yourself to the `#chip-expo-2021` channel (hover over "Channels, click the '+', and "Browse Channels").
