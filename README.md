@@ -32,6 +32,7 @@ Alternatively:
   - Within the Workspace, add yourself to the `#chip-expo-2021` channel (hover over "Channels, click the '+', and "Browse Channels").
   - Ask questions in Russian or English, they will be translated by the "Lingvanex Translator" plugin.
 
+In case makerchip.com becomes sluggish or unresponsive, reload this page and check the Zoom chat and/or Slack for any updates. Please report any platform issues that have not already been reported.
 
 ## After the Tutorial
 
