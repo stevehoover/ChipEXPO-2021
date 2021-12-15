@@ -2,7 +2,7 @@
 \SV
    // This code can be found in: https://github.com/stevehoover/VSDOpen2020_TLV_RISC-V_Tutorial
    
-   m4_include_lib(['https://raw.githubusercontent.com/stevehoover/ChipEXPO-2021/62a997569b9fcf659698b359e64407111ac671c6/lib/part2_shell.tlv'])
+   m4_include_lib(['https://raw.githubusercontent.com/stevehoover/ChipEXPO-2021/bcc2c5fa1fc37536a5f54a149964bbde54019a50/lib/part2_shell.tlv'])
 
 \SV
    m4_makerchip_module   // (Expanded in Nav-TLV pane.)
