@@ -260,8 +260,8 @@ m4+definitions(['
                      let disassembled_str = '$instr_str'.asString()
                      disassembled_str = disassembled_str.slice(0, -5)
                      //debugger
-                     this.getInitObject("binary").setText(binary_str)
-                     this.getInitObject("disassembled").setText(disassembled_str)
+                     this.getInitObject("binary").set({text: binary_str})
+                     this.getInitObject("disassembled").set({text: disassembled_str})
                   }
                   this.getInitObject("disassembled").set({textBackgroundColor: '$rd'.asBool() ? "#b0ffff" : "white"})
                }
