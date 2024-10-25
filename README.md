@@ -1,6 +1,6 @@
 # ChipEXPO-2021 - Building a RISC-V Core
 
-For participants of ChipEXPO-2021, Workshop on Building a RISC-V Core, by Steve Hoover, founder of Redwood EDA.
+For participants of ChipEXPO-2021, Workshop on Building a RISC-V Core, by Steve Hoover, founder of Redwood EDA, LLC.
 
 ## Course Videos
 
@@ -38,7 +38,7 @@ In case makerchip.com becomes sluggish or unresponsive, reload this page and che
 
 Some useful pointers for further exploration (right-click and "open in new tab"):
 
-  - [Redwood EDA](https://redwoodeda.com)
+  - [Redwood EDA, LLC](https://redwoodeda.com)
   - Open-source TL-Verilog projects:
     - [WARP-V TL-Verilog RISC-V CPU](https://github.com/stevehoover/warp-v)
     - [1st CLaaS Framework for hardware acceleration of web/cloud applications](https://github.com/stevehoover/1st-CLaaS)
